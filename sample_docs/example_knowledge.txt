@@ -1,0 +1,5 @@
+Example Company Knowledge Base (fictional demo)
+Support hours: Monday through Friday, 9 AM to 5 PM.
+Customers can request a service appointment through the booking form.
+After a booking request, the support team confirms availability by email.
+Billing questions are handled by the accounts department.
