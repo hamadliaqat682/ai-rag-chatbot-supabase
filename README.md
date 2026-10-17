@@ -1,3 +1,7 @@
+
+![RAG Tests](https://github.com/hamadliaqat682/ai-rag-chatbot-supabase/actions/workflows/tests.yml/badge.svg)
+
+
 # AI RAG Chatbot with FastAPI, OpenAI & Supabase
 
 A **runnable educational demo** of a retrieval-augmented generation (RAG)
